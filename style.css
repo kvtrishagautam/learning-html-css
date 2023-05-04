@@ -17,3 +17,7 @@ a{
     color: aliceblue;
     text-decoration: none;
 }
+.context{
+    display: flex;
+    justify-content:space-between ;
+}
